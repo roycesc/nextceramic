@@ -14,6 +14,9 @@ pnpm i #installs dependencies
 
 pnpm dev #to ensure it has installed and works
 
+#If there are issues with permissions to add new files etc.
+
+sudo chmod -R 777 <project-name>
 
 ```
 
